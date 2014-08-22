@@ -19,6 +19,7 @@ $ go get github.com/mattn/ujihisa/ujm
 ## Usage
 
 This code should display `1`.
+
 ```
 便利便利便利感極まってきました
 感極まってきました
