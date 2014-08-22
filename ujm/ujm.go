@@ -13,7 +13,7 @@ var debug = flag.Bool("d", false, "debug")
 
 func main() {
 	flag.Parse()
-	var f *os.File
+	var f *os.File = os.Stdin
 	var err error
 	var b []byte
 
