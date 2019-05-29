@@ -4,7 +4,7 @@
 
 ## Technique Description
 
-This is clone of whitespace language. A space character is replated to `便利`. A tab character is replaced to `感極まってきました`.
+This is clone of whitespace language. A space character is replaced to `便利`. A tab character is replaced to `感極まってきました`.
 
 ## Requirements
 
